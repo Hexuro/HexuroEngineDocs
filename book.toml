@@ -1,0 +1,10 @@
+[book]
+titles = "Hexuro Engine Documentation"
+authors = ["Viktor Popp"]
+description = "The official documentation for the Hexuro Game Engine"
+language = "en"
+src = "src"
+
+[build]
+build-dir = "book"
+create-missing = true
